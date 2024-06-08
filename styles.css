@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ebee29;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    max-width: 100vh;
+    margin-left: 50vh;
+    margin-top: 10vh;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+span{
+    cursor: pointer;
+    color: blueviolet;
+}
